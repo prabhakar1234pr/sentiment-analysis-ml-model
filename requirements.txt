@@ -1,8 +1,0 @@
-kaggle
-pandas
-scikit-learn
-tensorflow
-os
-json
-ZipFile
-streamlit
