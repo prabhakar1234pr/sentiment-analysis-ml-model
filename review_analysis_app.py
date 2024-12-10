@@ -4,7 +4,7 @@ import pickle
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 # Load the tokenizer once
-with open(r'C:\modda\venv\tokenizer.pkl', 'rb') as f:
+with open(r'tokenizer.pkl', 'rb') as f:
     tokenizer = pickle.load(f)
 
 # Prediction function
