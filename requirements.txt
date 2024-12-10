@@ -1,0 +1,9 @@
+pandas
+numpy 
+streamlit 
+tensorflow
+scikit-learn
+datetime
+time
+Tensorboard
+EarlyStopping
