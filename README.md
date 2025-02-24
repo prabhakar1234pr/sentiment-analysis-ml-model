@@ -1,4 +1,5 @@
 # sentiment-analysis-ml-model
+You can view the live app overe here : https://sentiment-analysis-ml-model-398g7mjum7qmvrbee73afo.streamlit.app/
 ## Introduction
 This project implements a sentiment analysis model for IMDB movie reviews, leveraging deep learning techniques to classify reviews as positive or negative. The system demonstrates the practical application of natural language processing (NLP) in understanding and categorizing user-generated content, which has significant implications for businesses and researchers in gauging public opinion and customer satisfaction.
 ## Project Development
